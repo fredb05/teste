@@ -1,0 +1,51 @@
+header {
+}
+#box-container {
+  display: flex;
+  background-color: yellowgreen;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+
+/* pq tem uma margin no nome*/
+
+#perfil {
+  border-radius: 500px;
+}
+
+#nome {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  color: white;
+  font-size: 32px;
+}
+#arroba {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  color: #f5bd4f;
+  font-weight: 400;
+  font-size: 12px;
+  padding-bottom: 35px;
+}
+
+.boxs {
+  padding-bottom: 20;
+}
+
+.box1 {
+  display: flex;
+  background-color: rebeccapurple;
+  border-radius: 50px;
+}
+
+#calend {
+  width: 40px;
+  height: 40px;
+}
+
+.forms {
+  width: 500px;
+}
